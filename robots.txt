@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceihieset.rubyonrio.com/sitemap.xml
